@@ -5,7 +5,7 @@
 # AIMS AND OBJECECTIVE
 To determine the most selling product in each region of the west african country
 To determine the country with the highest consumption of each product in the last 3 years
-To determine the country that generated the most profit in the last 3 years
+To determine the country that generated the most profit in the last 3 years 
 
 
 # DATA SOURCE
