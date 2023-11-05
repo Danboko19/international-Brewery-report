@@ -43,10 +43,21 @@ MONTHS : month the purchase was made
 
 YEARS : the year each pruchase was made
 
-LANGUAGE : the language spoken in each country of purchase
+LANGUAGE : the language spoken in each country of purchase; This is added to the table in order to be able to go on with the analysis
+
+# The query used
 ![Capture](https://github.com/Danboko19/international-Brewery-report/assets/148493509/fa29fdde-6bd8-47dc-8fc0-3c82aab1ca63)
 
-DRINK_TYPE : the type of each brand( beer or malt drink)
+# The result on the table
+![result of language addition](https://github.com/Danboko19/international-Brewery-report/assets/148493509/586fc100-0551-458a-a0b2-25202e09ccc6)
+
+DRINK_TYPE : the type of each brand( beer or malt drink); This is also added to the table in order to be able to go on with the analysis
+# The query used
+![quer for drink_type](https://github.com/Danboko19/international-Brewery-report/assets/148493509/0bce40a9-11b9-4d95-a9a1-80037abea074)
+# Result gotten
+![result of language addition](https://github.com/Danboko19/international-Brewery-report/assets/148493509/d987bb3d-621b-42f2-a037-d87a39fdd854)
+
+
 # DATA TRANSFORMATION
 The data has being cleaned and processed before by the data science of the company but another review was made by me using excel before analysis
 
