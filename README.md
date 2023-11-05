@@ -62,6 +62,7 @@ DRINK_TYPE : the type of each brand( beer or malt drink); This is also added to 
 The data has being cleaned and processed before by the data science of the company but another review was made by me using excel before analysis
 
 # ANALYSIS OF THE RESULT
+# PROFIT ANALYSIS
 1.) Within the space of the last three years, what was the profit worth of the breweries,
 inclusive of the anglophone and the francophone territories?
 ![QUESTION 1 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/67ef6a30-4af4-4097-b792-e7beccec722e)
@@ -70,6 +71,25 @@ inclusive of the anglophone and the francophone territories?
 manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.
 ![QUESTION 2 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/13c2da34-a7e2-4bed-a4af-017637385483)
 
-3.)Country that generated the highest profit in 2019
+3.) Country that generated the highest profit in 2019
 ![QUESTION  ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/c5ee6142-e28b-43d0-a45e-d2b0c9a19a03)
+
+4.) Help him find the year with the highest profit.
+![QUESTION 4 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/bec4d6fc-d3c0-47aa-848f-7e8b439ef545)
+
+5.) Which month in the three years was the least profit generated?
+![QUESTION 5 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/59c6d52c-882c-4985-aae3-c6cbe1d5f607)
+
+6.) What was the minimum profit in the month of December 2018?
+![QUESTION 6 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/f8865602-d00d-45f0-af8e-6b80389dccbe)
+
+7.) Compare the profit in percentage for each of the month in 2019
+
+8.) Which particular brand generated the highest profit in Senegal?
+![QUESTION 8 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/1d1383d4-07bb-4e2c-aa83-22398e533a2a)
+
+# BRAND ANALYSIS
+1.)Within the last two years, the brand manager wants to know the top three brands consumed in the
+francophone countries
+
 
