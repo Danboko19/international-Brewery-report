@@ -62,7 +62,9 @@ DRINK_TYPE : the type of each brand( beer or malt drink); This is also added to 
 The data has being cleaned and processed before by the data science of the company but another review was made by me using excel before analysis
 
 # ANALYSIS OF THE RESULT
+
 # PROFIT ANALYSIS
+
 1.) Within the space of the last three years, what was the profit worth of the breweries,
 inclusive of the anglophone and the francophone territories?
 ![QUESTION 1 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/67ef6a30-4af4-4097-b792-e7beccec722e)
@@ -89,7 +91,43 @@ manager, Mr. Stone made a strategic decision that will aid profit maximization i
 ![QUESTION 8 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/1d1383d4-07bb-4e2c-aa83-22398e533a2a)
 
 # BRAND ANALYSIS
-1.)Within the last two years, the brand manager wants to know the top three brands consumed in the
+
+1.) Within the last two years, the brand manager wants to know the top three brands consumed in the
 francophone countries
+![brands 1](https://github.com/Danboko19/international-Brewery-report/assets/148493509/5fbf2900-9c39-476a-a218-d3158558696f)
 
+2.) Find out the top two choice of consumer brands in Ghana
+![brands 2](https://github.com/Danboko19/international-Brewery-report/assets/148493509/9afda0b1-b914-446e-94f5-c06c13e08554)
 
+3. )Find out the details of beers consumed in the past three years in the most oil rich country in West
+Africa.
+![brands 3](https://github.com/Danboko19/international-Brewery-report/assets/148493509/07d5f35d-c41e-41fb-bff5-eae39802edea)
+
+4.) Favorites malt brand in Anglophone region between 2018 and 2019
+![brands 4](https://github.com/Danboko19/international-Brewery-report/assets/148493509/960b59eb-2dbf-4545-a81b-9d35d1182918)
+
+5.) Which brands sold the highest in 2019 in Nigeria?
+![brands 5](https://github.com/Danboko19/international-Brewery-report/assets/148493509/6eea245a-c8e9-4282-ab3e-5e65f46d582b)
+
+6.) Favorites brand in South South region in Nigeria
+![brands 6](https://github.com/Danboko19/international-Brewery-report/assets/148493509/e24726e9-062e-41c7-af1d-8856d1155637)
+
+7. )Bear consumption in Nigeria
+![brands 7](https://github.com/Danboko19/international-Brewery-report/assets/148493509/13d6f872-313d-4a41-acb3-686e7a932e4a)
+
+8.) Level of consumption of Budweiser in the regions in Nigeria
+![brands 8](https://github.com/Danboko19/international-Brewery-report/assets/148493509/41ea7470-f6d3-430a-b037-f30574c6f459)
+
+9.) Level of consumption of Budweiser in the regions in Nigeria in 2019
+![brands 9](https://github.com/Danboko19/international-Brewery-report/assets/148493509/ad8d6322-8b08-4579-b7ed-b465ff59d28b)
+
+# GEO-LOCATION ANALYSIS
+
+1.) Country with the highest consumption of beer.
+![geo 1](https://github.com/Danboko19/international-Brewery-report/assets/148493509/116092ea-2606-4ab9-a331-2c953a7b4876)
+
+2.) Highest sales personnel of Budweiser in Senegal
+![geo 2](https://github.com/Danboko19/international-Brewery-report/assets/148493509/ada4a639-a8e7-430f-aec5-88a99f584f64)
+
+3.) Country with the highest profit of the fourth quarter in 2019
+![geo 3](https://github.com/Danboko19/international-Brewery-report/assets/148493509/116a9b50-39f2-49e8-b560-4297c76f7993)
