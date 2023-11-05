@@ -17,19 +17,32 @@ The dataset has 13 attributes with 1047 records from the onset and the name of t
 
 
 # EXPLAINING EACH COLUMNS
-SALES_ID : this is generated during each sales made
+SALES_ID :this is generated during each sales made
+
 SALES_REP : this signify the sales representative that made the sales
+
 EMAILS : the emails of the customer that made the purchase
+
 BRANDS : the name of the product purchased
+
 PLANT_COST : the cost price of the product from the producer
+
 UNIT_PRICE : the purchaes price of a unit of the product
+
 QUANTITY : unit bought
+
 COST : cost per each purchased made
+
 PROFIT : profit generated from each sales
+
 COUNTRIES : countries of purchase
+
 REGION : geographical location of the purchase
+
 MONTHS : month the purchase was made
+
 YEARS : the year each pruchase was made
+
 LANGUAGE : the language spoken in each country of purchase
 ![Capture](https://github.com/Danboko19/international-Brewery-report/assets/148493509/fa29fdde-6bd8-47dc-8fc0-3c82aab1ca63)
 
