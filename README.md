@@ -1,5 +1,5 @@
 # PROJECT TITLE 
-# International report in west africa in the last 3 years
+# International_ Brewery report in west africa in the last 3 years
 
 
 # AIMS AND OBJECECTIVE
@@ -60,4 +60,16 @@ DRINK_TYPE : the type of each brand( beer or malt drink); This is also added to 
 
 # DATA TRANSFORMATION
 The data has being cleaned and processed before by the data science of the company but another review was made by me using excel before analysis
+
+# ANALYSIS OF THE RESULT
+1.) Within the space of the last three years, what was the profit worth of the breweries,
+inclusive of the anglophone and the francophone territories?
+![QUESTION 1 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/67ef6a30-4af4-4097-b792-e7beccec722e)
+
+2.) Compare the total profit between these two territories in order for the territory
+manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.
+![QUESTION 2 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/13c2da34-a7e2-4bed-a4af-017637385483)
+
+3.)Country that generated the highest profit in 2019
+![QUESTION  ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/c5ee6142-e28b-43d0-a45e-d2b0c9a19a03)
 
