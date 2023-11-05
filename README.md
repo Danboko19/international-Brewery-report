@@ -31,6 +31,8 @@ REGION : geographical location of the purchase
 MONTHS : month the purchase was made
 YEARS : the year each pruchase was made
 LANGUAGE : the language spoken in each country of purchase
+![Capture](https://github.com/Danboko19/international-Brewery-report/assets/148493509/fa29fdde-6bd8-47dc-8fc0-3c82aab1ca63)
+
 DRINK_TYPE : the type of each brand( beer or malt drink)
 # DATA TRANSFORMATION
 The data has being cleaned and processed before by the data science of the company but another review was made by me using excel before analysis
