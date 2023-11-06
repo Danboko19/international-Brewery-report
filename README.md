@@ -1,5 +1,5 @@
 # PROJECT TITLE 
-# International_ Brewery report in west africa in the last 3 years 
+# International_ Brewery report in west africa in the last 3 years
 
 
 # AIMS AND OBJECECTIVE
@@ -113,7 +113,7 @@ Africa.
 ![brands 6](https://github.com/Danboko19/international-Brewery-report/assets/148493509/e24726e9-062e-41c7-af1d-8856d1155637)
 
 7. )Bear consumption in Nigeria
-![brands 7](https://github.com/Danboko19/international-Brewery-report/assets/148493509/13d6f872-313d-4a41-acb3-686e7a932e4a)
+[brands 7](https://github.com/Danboko19/international-Brewery-report/assets/148493509/13d6f872-313d-4a41-acb3-686e7a932e4a)
 
 8.) Level of consumption of Budweiser in the regions in Nigeria
 ![brands 8](https://github.com/Danboko19/international-Brewery-report/assets/148493509/41ea7470-f6d3-430a-b037-f30574c6f459)
