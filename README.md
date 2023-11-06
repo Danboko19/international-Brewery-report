@@ -63,74 +63,136 @@ The data has being cleaned and processed before by the data science of the compa
 
 # ANALYSIS OF THE RESULT
 
-# PROFIT ANALYSIS
+## PROFIT ANALYSIS
 
-1.) Within the space of the last three years, what was the profit worth of the breweries,
-inclusive of the anglophone and the francophone territories?
-![QUESTION 1 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/67ef6a30-4af4-4097-b792-e7beccec722e)
+## 1.) Within the space of the last three years, what was the profit worth of the breweries,
+### inclusive of the anglophone and the francophone territories?
+![A1](https://github.com/Danboko19/international-Brewery-report/assets/148493509/126ff32d-1635-4abf-bc52-bb2ac41ebe1f)
 
-2.) Compare the total profit between these two territories in order for the territory
+
+### 2.) Compare the total profit between these two territories in order for the territory
 manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.
-![QUESTION 2 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/13c2da34-a7e2-4bed-a4af-017637385483)
+![A 2](https://github.com/Danboko19/international-Brewery-report/assets/148493509/8fc12308-5416-4488-9f31-52e74064c1bf)
 
-3.) Country that generated the highest profit in 2019
-![QUESTION  ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/c5ee6142-e28b-43d0-a45e-d2b0c9a19a03)
 
-4.) Help him find the year with the highest profit.
-![QUESTION 4 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/bec4d6fc-d3c0-47aa-848f-7e8b439ef545)
+### 3.) Country that generated the highest profit in 2019
+![A 3](https://github.com/Danboko19/international-Brewery-report/assets/148493509/39ba8bde-ad6d-4d0a-a68e-6369662bd4b8)
 
-5.) Which month in the three years was the least profit generated?
-![QUESTION 5 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/59c6d52c-882c-4985-aae3-c6cbe1d5f607)
+### 4.) Help him find the year with the highest profit.
+![A 4](https://github.com/Danboko19/international-Brewery-report/assets/148493509/35b9e130-8115-4741-8c77-20dd6852e810)
 
-6.) What was the minimum profit in the month of December 2018?
-![QUESTION 6 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/f8865602-d00d-45f0-af8e-6b80389dccbe)
+### 5.) Which month in the three years was the least profit generated?
+![A 5](https://github.com/Danboko19/international-Brewery-report/assets/148493509/1028ed01-8c18-4d11-96e4-d5f29009d966)
 
-7.) Compare the profit in percentage for each of the month in 2019
 
-8.) Which particular brand generated the highest profit in Senegal?
-![QUESTION 8 ANALYSIS](https://github.com/Danboko19/international-Brewery-report/assets/148493509/1d1383d4-07bb-4e2c-aa83-22398e533a2a)
+### 6.) What was the minimum profit in the month of December 2018?
+![A 6](https://github.com/Danboko19/international-Brewery-report/assets/148493509/29a736dc-7254-438d-ab9d-5708056d7df7)
 
-# BRAND ANALYSIS
 
-1.) Within the last two years, the brand manager wants to know the top three brands consumed in the
-francophone countries
-![brands 1](https://github.com/Danboko19/international-Brewery-report/assets/148493509/5fbf2900-9c39-476a-a218-d3158558696f)
+### 7.) Compare the profit in percentage for each of the month in 2019
 
-2.) Find out the top two choice of consumer brands in Ghana
-![brands 2](https://github.com/Danboko19/international-Brewery-report/assets/148493509/9afda0b1-b914-446e-94f5-c06c13e08554)
+### 8.) Which particular brand generated the highest profit in Senegal?
+![A 8](https://github.com/Danboko19/international-Brewery-report/assets/148493509/ea32bc99-5e70-4e9c-a310-b298c3c536d7)
 
-3. )Find out the details of beers consumed in the past three years in the most oil rich country in West
-Africa.
-![brands 3](https://github.com/Danboko19/international-Brewery-report/assets/148493509/07d5f35d-c41e-41fb-bff5-eae39802edea)
 
-4.) Favorites malt brand in Anglophone region between 2018 and 2019
-![brands 4](https://github.com/Danboko19/international-Brewery-report/assets/148493509/960b59eb-2dbf-4545-a81b-9d35d1182918)
+## BRAND ANALYSIS
 
-5.) Which brands sold the highest in 2019 in Nigeria?
-![brands 5](https://github.com/Danboko19/international-Brewery-report/assets/148493509/6eea245a-c8e9-4282-ab3e-5e65f46d582b)
+### 1.) Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
 
-6.) Favorites brand in South South region in Nigeria
-![brands 6](https://github.com/Danboko19/international-Brewery-report/assets/148493509/e24726e9-062e-41c7-af1d-8856d1155637)
+The top three are 
+### 'Trophy', 'Hero'
+and
+### 'Eagle Lager'
+![B 1](https://github.com/Danboko19/international-Brewery-report/assets/148493509/44d28398-f2ca-42b2-984f-ad7929e73410)
 
-7. )Bear consumption in Nigeria
-![brands 7](https://github.com/Danboko19/international-Brewery-report/assets/148493509/13d6f872-313d-4a41-acb3-686e7a932e4a)
 
-8.) Level of consumption of Budweiser in the regions in Nigeria
-![brands 8](https://github.com/Danboko19/international-Brewery-report/assets/148493509/41ea7470-f6d3-430a-b037-f30574c6f459)
 
-9.) Level of consumption of Budweiser in the regions in Nigeria in 2019
-![brands 9](https://github.com/Danboko19/international-Brewery-report/assets/148493509/ad8d6322-8b08-4579-b7ed-b465ff59d28b)
+### 2.) Find out the top two choice of consumer brands in Ghana
 
-# GEO-LOCATION ANALYSIS
+The most two consumers choice in G
+### 'Ghana' 
+are 
+###  'Eagle Lager'
+and 
+### 'Castle lite'
+![B2](https://github.com/Danboko19/international-Brewery-report/assets/148493509/ef9aeaad-1402-40cb-a32d-67b61a28d212)
 
-1.) Country with the highest consumption of beer.
-![geo 1](https://github.com/Danboko19/international-Brewery-report/assets/148493509/116092ea-2606-4ab9-a331-2c953a7b4876)
 
-2.) Highest sales personnel of Budweiser in Senegal
-![geo 2](https://github.com/Danboko19/international-Brewery-report/assets/148493509/ada4a639-a8e7-430f-aec5-88a99f584f64)
+### 3. )Find out the details of beers consumed in the past three years in the most oil rich country in WestAfrica.
+![b 3](https://github.com/Danboko19/international-Brewery-report/assets/148493509/9b3a8104-7c1c-478f-84e5-1fffa14823d9)
 
-3.) Country with the highest profit of the fourth quarter in 2019
-![geo 3](https://github.com/Danboko19/international-Brewery-report/assets/148493509/116a9b50-39f2-49e8-b560-4297c76f7993)
+
+### 4.) Favorites malt brand in Anglophone region between 2018 and 2019
+
+The most sold malt drink in the 
+### 'Anglophone'
+Region in 2018 and 2019 was
+### 'Beta malt'
+![B 4](https://github.com/Danboko19/international-Brewery-report/assets/148493509/728391b6-e54a-43dc-93eb-595cd5700231)
+
+
+### 5.) Which brands sold the highest in 2019 in Nigeria?
+
+### 'hero' 
+was the most sold product in 
+### 'Nigeria' in 
+### '2019'
+![B 5](https://github.com/Danboko19/international-Brewery-report/assets/148493509/ea4711b2-44b3-4d2a-8379-43e58d658fca)
+
+
+### 6.) Favorites brand in South South region in Nigeria
+
+The most consumed brand in the southsouth region of Nigeria is 
+### 'EAGLE LAGER'
+![B 6](https://github.com/Danboko19/international-Brewery-report/assets/148493509/530d27fc-9612-461a-9d13-c40fecdeda57)
+
+
+### 7. )Bear consumption in Nigeria
+![B 7](https://github.com/Danboko19/international-Brewery-report/assets/148493509/22a2b95f-16d0-40bb-98ce-4b9d2987d4a6)
+
+### 8.) Level of consumption of Budweiser in the regions in Nigeria
+
+### 'Budweiser'
+was consumed the most in the
+### 'western'
+region of Nigeri in the last three years
+![B 8](https://github.com/Danboko19/international-Brewery-report/assets/148493509/be2ea753-c795-433f-83a1-c1cc5ada1425)
+
+
+
+### 9.) Level of consumption of Budweiser in the regions in Nigeria in 2019
+
+### 'Budweiser'
+was consumed the most in the 
+### 'southeast' 
+region of Nigeria of 2019
+![B 9](https://github.com/Danboko19/international-Brewery-report/assets/148493509/f1fb5c9f-12a5-41fe-9bff-cedcf3dbe801)
+
+
+
+## GEO-LOCATION ANALYSIS
+
+### 1.) Country with the highest consumption of beer.
+
+### 'Senegal' 
+has the highest rate of beer consumption beers out of the 5 countries in the last 3 years
+![C 3](https://github.com/Danboko19/international-Brewery-report/assets/148493509/c7534e26-ab9d-4bc3-ba22-3283b8bd8bc2)
+
+
+### 2.) Highest sales personnel of Budweiser in Senegal
+
+### 'Jones'
+made the highest sales in senegal with a total sales of 
+### '30660'
+![C 2](https://github.com/Danboko19/international-Brewery-report/assets/148493509/fd53dacc-d848-42d8-a569-43fde2ae5e89)
+
+
+### 3.) Country with the highest profit of the fourth quarter in 2019
+
+### 'Ghana'
+record the highest sales in the last quarters of 2019 with  record of 
+### '100410'
+![C 3!](https://github.com/Danboko19/international-Brewery-report/assets/148493509/3a1d1a76-d1e9-4098-8fd6-cac45e610c72)
 
 # OBSERVATION
 
