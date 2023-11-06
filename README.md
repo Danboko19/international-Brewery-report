@@ -131,3 +131,16 @@ Africa.
 
 3.) Country with the highest profit of the fourth quarter in 2019
 ![geo 3](https://github.com/Danboko19/international-Brewery-report/assets/148493509/116a9b50-39f2-49e8-b560-4297c76f7993)
+
+# OBSERVATION
+
+Comparing the profit by region i discovered the maximum sales came through the francophone country but if we are to go with the countries mumber i believe the most sales came through the francophone countries per eac sles
+
+I also observed that senegal is the countries with highest beer comsumption rate.
+
+Also observed that porfit were dropping same as sales made as the years go bye
+
+# RECOMMENDATION
+
+I recommend that there should increase in supply to the francophone countries because they brought in the highest expecially senegal.
+I think a plan should be made to counter the drops in sales made over the yer as this may signify a drop in the coming year. 
