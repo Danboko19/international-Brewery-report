@@ -70,8 +70,7 @@ The data has being cleaned and processed before by the data science of the compa
 ![A1](https://github.com/Danboko19/international-Brewery-report/assets/148493509/126ff32d-1635-4abf-bc52-bb2ac41ebe1f)
 
 
-### 2.) Compare the total profit between these two territories in order for the territory
-manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.
+### 2.) Compare the total profit between these two territories in order for the territory manager, Mr. Stone made a strategic decision that will aid profit maximization in 2020.
 ![A 2](https://github.com/Danboko19/international-Brewery-report/assets/148493509/8fc12308-5416-4488-9f31-52e74064c1bf)
 
 
@@ -99,22 +98,14 @@ manager, Mr. Stone made a strategic decision that will aid profit maximization i
 
 ### 1.) Within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
 
-The top three are 
-### 'Trophy', 'Hero'
-and
-### 'Eagle Lager'
+The top three are  ### 'Trophy', 'Hero' and ### 'Eagle Lager'
 ![B 1](https://github.com/Danboko19/international-Brewery-report/assets/148493509/44d28398-f2ca-42b2-984f-ad7929e73410)
 
 
 
 ### 2.) Find out the top two choice of consumer brands in Ghana
 
-The most two consumers choice in G
-### 'Ghana' 
-are 
-###  'Eagle Lager'
-and 
-### 'Castle lite'
+The most two consumers choice in G ### 'Ghana' are ###  'Eagle Lager'and ### 'Castle lite'
 ![B2](https://github.com/Danboko19/international-Brewery-report/assets/148493509/ef9aeaad-1402-40cb-a32d-67b61a28d212)
 
 
