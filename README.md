@@ -115,26 +115,20 @@ The most two consumers choice in G ### 'Ghana' are ###  'Eagle Lager'and ### 'Ca
 
 ### 4.) Favorites malt brand in Anglophone region between 2018 and 2019
 
-The most sold malt drink in the 
-### 'Anglophone'
-Region in 2018 and 2019 was
-### 'Beta malt'
+The most sold malt drink in the 'Anglophone'
+Region in 2018 and 2019 was 'Beta malt'
 ![B 4](https://github.com/Danboko19/international-Brewery-report/assets/148493509/728391b6-e54a-43dc-93eb-595cd5700231)
 
 
 ### 5.) Which brands sold the highest in 2019 in Nigeria?
 
-### 'hero' 
-was the most sold product in 
-### 'Nigeria' in 
-### '2019'
+'hero' was the most sold product in 'Nigeria' in '2019'
 ![B 5](https://github.com/Danboko19/international-Brewery-report/assets/148493509/ea4711b2-44b3-4d2a-8379-43e58d658fca)
 
 
 ### 6.) Favorites brand in South South region in Nigeria
 
-The most consumed brand in the southsouth region of Nigeria is 
-### 'EAGLE LAGER'
+The most consumed brand in the southsouth region of Nigeria is 'EAGLE LAGER'
 ![B 6](https://github.com/Danboko19/international-Brewery-report/assets/148493509/530d27fc-9612-461a-9d13-c40fecdeda57)
 
 
@@ -143,19 +137,14 @@ The most consumed brand in the southsouth region of Nigeria is
 
 ### 8.) Level of consumption of Budweiser in the regions in Nigeria
 
-### 'Budweiser'
-was consumed the most in the
-### 'western'
-region of Nigeri in the last three years
+'Budweiser' was consumed the most in the 'western' region of Nigeri in the last three years
 ![B 8](https://github.com/Danboko19/international-Brewery-report/assets/148493509/be2ea753-c795-433f-83a1-c1cc5ada1425)
 
 
 
 ### 9.) Level of consumption of Budweiser in the regions in Nigeria in 2019
 
-### 'Budweiser'
-was consumed the most in the 
-### 'southeast' 
+'Budweiser' was consumed the most in the 'southeast' 
 region of Nigeria of 2019
 ![B 9](https://github.com/Danboko19/international-Brewery-report/assets/148493509/f1fb5c9f-12a5-41fe-9bff-cedcf3dbe801)
 
@@ -165,35 +154,35 @@ region of Nigeria of 2019
 
 ### 1.) Country with the highest consumption of beer.
 
-### 'Senegal' 
-has the highest rate of beer consumption beers out of the 5 countries in the last 3 years
+'Senegal' has the highest rate of beer consumption beers out of the 5 countries in the last 3 years
 ![C 3](https://github.com/Danboko19/international-Brewery-report/assets/148493509/c7534e26-ab9d-4bc3-ba22-3283b8bd8bc2)
 
 
 ### 2.) Highest sales personnel of Budweiser in Senegal
 
-### 'Jones'
-made the highest sales in senegal with a total sales of 
-### '30660'
+'Jones' made the highest sales in senegal with a total sales of '30660'
 ![C 2](https://github.com/Danboko19/international-Brewery-report/assets/148493509/fd53dacc-d848-42d8-a569-43fde2ae5e89)
 
 
 ### 3.) Country with the highest profit of the fourth quarter in 2019
 
-### 'Ghana'
-record the highest sales in the last quarters of 2019 with  record of 
-### '100410'
+'Ghana' record the highest sales in the last quarters of 2019 with  record of '100410'
 ![C 3!](https://github.com/Danboko19/international-Brewery-report/assets/148493509/3a1d1a76-d1e9-4098-8fd6-cac45e610c72)
 
 # OBSERVATION
 
-Comparing the profit by region i discovered the maximum sales came through the francophone country but if we are to go with the countries mumber i believe the most sales came through the francophone countries per eac sles
+Comparing the profit by region i discovered the maximum sales came through the francophone country but if we are to go with the countries mumber i believe the most sales came through the francophone countries per eac sles.
+I also observed that senegal is the countries with highest beer comsumption rate out of the five countries .
+Also observed that porfit were dropping same as sales made as the years go bye.
+Also the highest most selling product in Nigeria 'hero' beer and 'eager lager' is sells the most in southsouth Nigeria 
 
-I also observed that senegal is the countries with highest beer comsumption rate.
 
-Also observed that porfit were dropping same as sales made as the years go bye
 
 # RECOMMENDATION
 
 I recommend that there should increase in supply to the francophone countries because they brought in the highest expecially senegal.
-I think a plan should be made to counter the drops in sales made over the yer as this may signify a drop in the coming year. 
+
+I will like to bring the attention of the board to drop in sales and profit as the year go bye as 2017 generated the most profit and 2019 generated the least, therefore a paln should be made towards this . 
+
+I recommend that the company should reduce the production 'budweiser','castle lite' as the purchase of this product are low and increase the production of 'eagle lager' and 'hero'.
+
