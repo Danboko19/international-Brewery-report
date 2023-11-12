@@ -65,8 +65,9 @@ The data has being cleaned and processed before by the data science of the compa
 
 ## PROFIT ANALYSIS
 
-## 1.) Within the space of the last three years, what was the profit worth of the breweries,
-### inclusive of the anglophone and the francophone territories?
+### 1.) Within the space of the last three years, what was the profit worth of the breweries, inclusive of the anglophone and the francophone territories?
+
+The total profit made in the last 3 years was '#105587420' 
 ![A1](https://github.com/Danboko19/international-Brewery-report/assets/148493509/126ff32d-1635-4abf-bc52-bb2ac41ebe1f)
 
 
@@ -75,22 +76,32 @@ The data has being cleaned and processed before by the data science of the compa
 
 
 ### 3.) Country that generated the highest profit in 2019
+
+The coutry that generated the highest ptofit in 2019 was ''Ghana' and generated a profit of '#7144070'
 ![A 3](https://github.com/Danboko19/international-Brewery-report/assets/148493509/39ba8bde-ad6d-4d0a-a68e-6369662bd4b8)
 
 ### 4.) Help him find the year with the highest profit.
+
+'2017' generated the highest profit
 ![A 4](https://github.com/Danboko19/international-Brewery-report/assets/148493509/35b9e130-8115-4741-8c77-20dd6852e810)
 
 ### 5.) Which month in the three years was the least profit generated?
+
+April was the month with the least profitable month
 ![A 5](https://github.com/Danboko19/international-Brewery-report/assets/148493509/1028ed01-8c18-4d11-96e4-d5f29009d966)
 
 
 ### 6.) What was the minimum profit in the month of December 2018?
+
+The minimum profit made in december 2018 was '#38150'
 ![A 6](https://github.com/Danboko19/international-Brewery-report/assets/148493509/29a736dc-7254-438d-ab9d-5708056d7df7)
 
 
 ### 7.) Compare the profit in percentage for each of the month in 2019
 
 ### 8.) Which particular brand generated the highest profit in Senegal?
+
+Castle light generated the most profit in Senegal with a sum of '#7012980' in profit
 ![A 8](https://github.com/Danboko19/international-Brewery-report/assets/148493509/ea32bc99-5e70-4e9c-a310-b298c3c536d7)
 
 
